@@ -1,0 +1,14 @@
+.grid-container {
+    margin: 10% auto;
+  }
+  
+  .grid {
+    white-space: pre;
+    width: 50%;
+    height: 50%;
+  }
+  
+  button {
+    margin: 10px;
+    padding-top: -100px;
+  }
